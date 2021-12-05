@@ -7,7 +7,7 @@
   
   <img src="https://avatars.githubusercontent.com/u/55249888?v=4" align="right" width="25%"/>
 
-I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include Javascript, ReactJS
+I'm a software developer  Some technologies I enjoy working with include Javascript, ReactJS , ReactNative , Node.js
 
 - 🔭 I'm a Software Developer at Diamond ART DK (https://diamondart.dk/) in Give, Denmark (Remotely contract)
 - 💬 Ask me about **ReactJs and Frontend**

@@ -7,7 +7,14 @@
   
   <img src="https://avatars.githubusercontent.com/u/55249888?v=4" align="right" width="25%"/>
 
-I'm a software developer  Some technologies I enjoy working with include Javascript, ReactJS , ReactNative , Node.js
+I'm a software developer  Some technologies I enjoy working with include 
 
+- HTML
+- CSS
+- Javascript
+- ReactJS 
+- Redux
+- ReactNative
+- 
 - 🔭 I'm a Software Developer at Hamyas Development (https://play.google.com/store/apps/developer?id=Hamyas+Development) in Give, Denmark (Remotely contract)
 - 💬 Ask me about **ReactJs and Frontend**

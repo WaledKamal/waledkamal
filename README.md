@@ -16,5 +16,5 @@ I'm a software developer  Some technologies I enjoy working with include
 - Redux
 - ReactNative
 
-- 🔭 I'm a Software Developer at Hamyas Development (https://play.google.com/store/apps/developer?id=Hamyas+Development) in Give, Denmark (Remotely contract)
+- 🔭 I'm a Software Developer at Hamyas Development (https://play.google.com/store/apps/developer?id=Hamyas+Development) (Remotely contract)
 - 💬 Ask me about **ReactJs and Frontend**

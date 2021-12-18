@@ -9,12 +9,10 @@
 
 I'm a software developer  Some technologies I enjoy working with include 
 
-- HTML
-- CSS
-- Javascript
+- HTML CSS3 Javascript
 - ReactJS 
 - Redux
-- ReactNative
+- React Native
 
 - 🔭 I'm a Software Developer at Hamyas Development (https://play.google.com/store/apps/developer?id=Hamyas+Development) (Remotely contract)
-- 💬 Ask me about **ReactJs and Frontend**
+- 💬 Ask me about **React and Frontend**

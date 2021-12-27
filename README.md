@@ -9,8 +9,7 @@
 
 I'm a Front end developer  Some technologies I enjoy working with include 
 
-HTML5
-
+- HTML5
 
 - CSS/CSS3/SASS/LESS
 

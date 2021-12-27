@@ -33,4 +33,4 @@ I'm a Front end developer  Some technologies I enjoy working with include
 
 
 - 🔭 I'm a Software Developer at Hamyas Development (https://play.google.com/store/apps/developer?id=Hamyas+Development) (Remotely contract)
-- 💬 Ask me about **React and Frontend**
+- My Resume : https://github.com/WaledKamal/waledkamal/blob/main/My_CV.pdf

@@ -7,12 +7,31 @@
   
   <img src="https://avatars.githubusercontent.com/u/55249888?v=4" align="right" width="25%"/>
 
-I'm a software developer  Some technologies I enjoy working with include 
+I'm a Front end developer  Some technologies I enjoy working with include 
 
-- HTML CSS3 Javascript
-- ReactJS 
-- Redux
+HTML5
+
+
+- CSS/CSS3/SASS/LESS
+
+- Node.js / Express.js
+
+- JavaScript / TypeScript
+
+- React.js / Redux
+
 - React Native
+
+- GIT / GitHub 
+
+- UI/UX Knowledge
+
+- FTP / Hosting
+
+- AWS & Docker
+
+- APIs
+
 
 - 🔭 I'm a Software Developer at Hamyas Development (https://play.google.com/store/apps/developer?id=Hamyas+Development) (Remotely contract)
 - 💬 Ask me about **React and Frontend**

@@ -21,15 +21,13 @@ I'm a Front end developer  Some technologies I enjoy working with include
 
 - React Native
 
-- GIT / GitHub 
-
 - UI/UX Knowledge
 
 - FTP / Hosting
 
 - AWS & Docker
 
-- APIs
+- Rest APIs
 
 
 - 🔭 I'm a Software Developer at Hamyas Development (https://play.google.com/store/apps/developer?id=Hamyas+Development) (Remotely contract)

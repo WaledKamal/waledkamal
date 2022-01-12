@@ -9,25 +9,6 @@
 
 I'm a Front end developer  Some technologies I enjoy working with include 
 
-- HTML5
-
-- CSS/CSS3/SASS/LESS
-
-- Node.js / Express.js
-
-- JavaScript / TypeScript
-
-- React.js / Redux
-
-- React Native
-
-- UI/UX Knowledge
-
-- FTP / Hosting
-
-- AWS & Docker
-
-- Rest APIs
 
 
 - 🔭 I'm a Software Developer at Hamyas Development (https://play.google.com/store/apps/developer?id=Hamyas+Development) (Remotely contract)

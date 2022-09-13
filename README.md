@@ -5,7 +5,7 @@
     <a href="https://www.linkedin.com/in/waledkamal"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
   </p>
   
-  <img style="border-radius:50%" src="https://avatars.githubusercontent.com/u/55249888?v=4" align="right" width="25%"/>
+ 
 
 I'm a Front end developer  Some technologies I enjoy working with include 
 

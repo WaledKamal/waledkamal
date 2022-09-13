@@ -6,7 +6,7 @@
   </p>
   
  
- <h3 align="center">A passionate frontend / javascript developer from Egypt</h3>
+ <h3 align="center">A passionate Frontend / Javascript developer from Egypt</h3>
  
 
 <h3 align="left">Languages and Tools:</h3>

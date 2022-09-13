@@ -11,5 +11,5 @@ I'm a Front end developer  Some technologies I enjoy working with include
 
 
 
-- 🔭 I'm a Software Developer at Hamyas Development (https://play.google.com/store/apps/developer?id=Hamyas+Development) (Remotely contract)
+- 🔭 I'm a Javascript Developer
 - My Resume : https://waledkamal.github.io/portfolio/

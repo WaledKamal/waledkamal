@@ -1,13 +1,6 @@
 
-<h1 align="center">Hi, I'm Waleed 👋</h1>
+> I'm the type of person that if you ask me a question and I don't know the answer, I'm gonna tell you that I don't know. But I bet you what, I know how to find the answer and I will find the answer.
 
   
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/waledkamal) 
- 
----
-[![](https://visitcount.itsvg.in/api?id=waledkamal&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
  
